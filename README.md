@@ -1,5 +1,5 @@
 如果你是江南大学的学生，希望加入，可以在这里创建PR或者issue说明
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 如果有任何疑问，可以发送邮件至 soolaugust@gmail.com
 
@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://bincool.github.io/"><img src="https://avatars1.githubusercontent.com/u/17494673?v=4" width="100px;" alt="Jabari Irving"/><br /><sub><b>Jabari Irving</b></sub></a><br /><a href="#maintenance-bincool" title="Maintenance">🚧</a></td></tr></table>
+<table><tr><td align="center"><a href="https://bincool.github.io/"><img src="https://avatars1.githubusercontent.com/u/17494673?v=4" width="100px;" alt="Jabari Irving"/><br /><sub><b>Jabari Irving</b></sub></a><br /><a href="#maintenance-bincool" title="Maintenance">🚧</a></td><td align="center"><a href="http://soolaugust.github.io"><img src="https://avatars2.githubusercontent.com/u/10558124?v=4" width="100px;" alt="soolaugust"/><br /><sub><b>soolaugust</b></sub></a><br /><a href="#maintenance-soolaugust" title="Maintenance">🚧</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
