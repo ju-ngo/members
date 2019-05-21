@@ -1,11 +1,6 @@
-如果你是江南大学的学生，希望加入，可以在这里创建PR或者issue说明
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
-如果有任何疑问，可以发送邮件至 soolaugust@gmail.com
-
-> 声明： 本组织只是江南大学的民间组织，不代表任何官方意见。组织的目的只是为了为天下江南Github人提供交流和合作的方便。
-
-## Contributors
+## 贡献者
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -16,3 +11,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## 加入
+
+如果你是江南大学的学生，希望加入，可以在这里创建PR或者issue说明
+
+如果有任何疑问，可以发送邮件至 soolaugust@gmail.com
+
+> 声明： 本组织只是江南大学的民间组织，不代表任何官方意见。组织的目的只是为了为天下江南Github人提供交流和合作的方便。
