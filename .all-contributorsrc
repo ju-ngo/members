@@ -22,11 +22,22 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "X-956",
+      "name": "X-956",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184108080?v=4",
+      "profile": "https://github.com/X-956",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "members",
   "projectOwner": "ju-ngo",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
