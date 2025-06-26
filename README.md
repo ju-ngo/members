@@ -5,8 +5,20 @@
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://bincool.github.io/"><img src="https://avatars1.githubusercontent.com/u/17494673?v=4" width="100px;" alt="Jabari Irving"/><br /><sub><b>Jabari Irving</b></sub></a><br /><a href="#maintenance-bincool" title="Maintenance">🚧</a></td><td align="center"><a href="http://soolaugust.github.io"><img src="https://avatars2.githubusercontent.com/u/10558124?v=4" width="100px;" alt="soolaugust"/><br /><sub><b>soolaugust</b></sub></a><br /><a href="#maintenance-soolaugust" title="Maintenance">🚧</a></td></tr></table>
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://bincool.github.io/"><img src="https://avatars1.githubusercontent.com/u/17494673?v=4?s=100" width="100px;" alt="Jabari Irving"/><br /><sub><b>Jabari Irving</b></sub></a><br /><a href="#maintenance-bincool" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://soolaugust.github.io"><img src="https://avatars2.githubusercontent.com/u/10558124?v=4?s=100" width="100px;" alt="soolaugust"/><br /><sub><b>soolaugust</b></sub></a><br /><a href="#maintenance-soolaugust" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/X-956"><img src="https://avatars.githubusercontent.com/u/184108080?v=4?s=100" width="100px;" alt="X-956"/><br /><sub><b>X-956</b></sub></a><br /><a href="#maintenance-X-956" title="Maintenance">🚧</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
